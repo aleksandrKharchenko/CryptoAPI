@@ -1,0 +1,1 @@
+{"uuid":"142caf20-a5be-42f6-88f4-a18c1e2e382c","name":"tests.TransactionAPITest","children":["f11a8528-ed39-473d-b7b7-57f6a667fb04"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1713946343328,"stop":1713946344160}],"afters":[],"start":1713946343281,"stop":1713946346543}
